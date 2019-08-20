@@ -1,1 +1,1 @@
-# ControledePneus
+[![Build Status](https://travis-ci.org/GustavoMacedoDev/ControledePneus.svg?branch=master)](https://travis-ci.org/GustavoMacedoDev/ControledePneus)
